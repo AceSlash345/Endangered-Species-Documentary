@@ -1,0 +1,87 @@
+<style>
+#main-doc{
+  
+}
+#line{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width:1200px;
+  background-image:linear-gradient(to top, rgba(255,255,255,0), rgba(0,0,0,.1));
+  background-color:#E9DAC4;
+}
+#header-list-id{
+  font-size:22px;
+  font-family:Trattatello;
+}
+#list-id{
+    list-style-type:square;
+    font-size:17px;
+  font-family:didot;
+}
+#header-id{
+  font-size:30px;
+  font-family:poppins,sans-serif;
+}
+#paragraph-id{
+  font-family:didot,sans-serif;
+}
+#navbar{
+  background-color:#F7F7F7;
+  position:fixed;
+  float:left;
+  border: 1px solid black;
+  font-family:Helvetica,sans-serif;
+  height:100%;
+  margin-top:-16px;
+  margin-left:-8px;
+  list-style-type:none;
+}
+#nav-bar a{
+  
+}
+a{
+  display:block;
+  color:black;
+  text-decoration:none;
+  font-size:15px;
+}
+#sec-id{
+  margin-left:275px;
+  
+}
+ul {
+    list-style-type: none;    
+}
+body{
+  background-color:#FFF6ED ;
+}
+.close{
+  border:1px solid black;
+  margin-left:-40px;
+  padding:15px;
+}
+.main-section{
+}
+.indent{
+  margin-left:7px;
+  padding:5px;
+  
+}
+.rightside-image{
+  float:right;
+  display:block;
+  width:400px;
+  height:280px;
+}
+.image-text{
+  text-align:justify;
+  width:
+}
+.center{
+  text-align:center;
+}
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
+  }
+</style>
